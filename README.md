@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dipesh-Dubey/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Dipesh-Dubey/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Dipesh-Dubey/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipesh-Dubey/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Dipesh-Dubey/leetcode/tree/master/0071-simplify-path) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Dipesh-Dubey/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Dipesh-Dubey/leetcode/tree/master/0901-online-stock-span) |
 ## Simulation
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Dipesh-Dubey/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Dipesh-Dubey/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
