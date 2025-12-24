@@ -1,11 +1,11 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
         pair = [[p,s] for p,s in zip(position,speed)]
-        pair = sorted(pair)
+        pair = sorted(pair) #sort cars in position
         stack = []
         time = [(target - p)/s for p,s in pair]
 
-        for i in range(len(time)-1,-1,-1):
+        for i in range(len(time)-1,-1,-1): #we have to cover from last car for fleet 
             if not stack:
                 stack.append(time[i])
             else:
