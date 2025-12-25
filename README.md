@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Dipesh-Dubey/leetcode/tree/master/0071-simplify-path) |
+| [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
+## Greedy
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
