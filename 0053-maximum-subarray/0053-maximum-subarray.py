@@ -4,7 +4,7 @@ class Solution:
         max_sum = nums[0]
 
         for i in range(len(nums)):
-            curr_sum += nums[i]
+            curr_sum = max(curr_sum + nums[i], nums[i])
             max_sum = max(max_sum,curr_sum)
 
             if curr_sum<0:
