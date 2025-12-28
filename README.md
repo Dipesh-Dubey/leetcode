@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Dipesh-Dubey/leetcode/tree/master/0071-simplify-path) |
+| [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Dipesh-Dubey/leetcode/tree/master/0071-simplify-path) |
+| [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dipesh-Dubey/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Dipesh-Dubey/leetcode/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Dipesh-Dubey/leetcode/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Queue
