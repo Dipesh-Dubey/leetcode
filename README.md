@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Dipesh-Dubey/leetcode/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dipesh-Dubey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dipesh-Dubey/leetcode/tree/master/0739-daily-temperatures) |
@@ -150,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dipesh-Dubey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dipesh-Dubey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dipesh-Dubey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
