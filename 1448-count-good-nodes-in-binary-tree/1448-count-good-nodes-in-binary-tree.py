@@ -13,10 +13,10 @@ class Solution:
             
             if node.val >= max_path:
                 self.count += 1
-                max_path = node.val
                 
-            l = dfs(node.left,max_path)
-            r = dfs(node.right,max_path)
+            new_max = max(max_path,node.val)   
+            l = dfs(node.left,new_max)
+            r = dfs(node.right,new_max)
         
         dfs(root,root.val)
         return self.count
