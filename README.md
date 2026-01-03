@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dipesh-Dubey/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dipesh-Dubey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Dipesh-Dubey/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dipesh-Dubey/leetcode/tree/master/0739-daily-temperatures) |
