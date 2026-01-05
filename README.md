@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dipesh-Dubey/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Dipesh-Dubey/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Dipesh-Dubey/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0055-jump-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dipesh-Dubey/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Dipesh-Dubey/leetcode/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Dipesh-Dubey/leetcode/tree/master/0049-group-anagrams) |
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
 ## Matrix
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dipesh-Dubey/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Dipesh-Dubey/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 ## Two Pointers
