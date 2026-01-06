@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Dipesh-Dubey/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dipesh-Dubey/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipesh-Dubey/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Dipesh-Dubey/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dipesh-Dubey/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipesh-Dubey/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
@@ -181,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipesh-Dubey/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Tree
 |  |
