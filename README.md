@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Dipesh-Dubey/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Dipesh-Dubey/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Dipesh-Dubey/leetcode/tree/master/0056-merge-intervals) |
 | [0658-find-k-closest-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
 ## Matrix
