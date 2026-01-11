@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dipesh-Dubey/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Dipesh-Dubey/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Dipesh-Dubey/leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Dipesh-Dubey/leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipesh-Dubey/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/Dipesh-Dubey/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dipesh-Dubey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/0658-find-k-closest-elements) |
