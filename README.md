@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dipesh-Dubey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dipesh-Dubey/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dipesh-Dubey/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Dipesh-Dubey/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Dipesh-Dubey/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## String
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dipesh-Dubey/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dipesh-Dubey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Dipesh-Dubey/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/0658-find-k-closest-elements) |
