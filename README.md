@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dipesh-Dubey/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/Dipesh-Dubey/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Dipesh-Dubey/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dipesh-Dubey/leetcode/tree/master/0125-valid-palindrome) |
@@ -330,5 +331,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Dipesh-Dubey/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
