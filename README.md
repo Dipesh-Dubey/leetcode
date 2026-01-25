@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Dipesh-Dubey/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Dipesh-Dubey/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0189-rotate-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Dipesh-Dubey/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0142-linked-list-cycle-ii) |
