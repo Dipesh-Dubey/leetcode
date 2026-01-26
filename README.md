@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dipesh-Dubey/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dipesh-Dubey/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Dipesh-Dubey/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Dipesh-Dubey/leetcode/tree/master/0061-rotate-list) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dipesh-Dubey/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Dipesh-Dubey/leetcode/tree/master/0134-gas-station) |
