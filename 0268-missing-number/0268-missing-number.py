@@ -1,7 +1,8 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         i = 0
-        while i < len(nums): 
+        while i < len(nums):
+            crt = nums[i] 
             if nums[i] == i or nums[i] == len(nums):
                 i +=1  
             else:
