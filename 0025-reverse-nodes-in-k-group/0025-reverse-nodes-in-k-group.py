@@ -18,7 +18,10 @@ class Solution:
                     return dummy.next
                 kth = kth.next
             
+            gnext = kth.next
+            
             c = gprev.next
+            p = gnext
             for _ in range(k):
                 n = c.next
                 c.next = p
@@ -28,7 +31,6 @@ class Solution:
             temp = gprev.next
             gprev.next = kth
             gprev = temp
-            gprev.next = c
             
         return dummy.next
             
