@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Dipesh-Dubey/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Dipesh-Dubey/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0189-rotate-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0287-find-the-duplicate-number) |
