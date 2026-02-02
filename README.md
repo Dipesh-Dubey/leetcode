@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Dipesh-Dubey/leetcode/tree/master/0645-set-mismatch) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
