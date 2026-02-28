@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0268-missing-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1922-count-good-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Dipesh-Dubey/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
