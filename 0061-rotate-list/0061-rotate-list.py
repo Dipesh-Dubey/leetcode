@@ -18,7 +18,7 @@ class Solution:
 
         k = k%length
         fast = dummy
-        for i in range(k%length):
+        for i in range(k):
             fast = fast.next
 
         while fast and fast.next:
