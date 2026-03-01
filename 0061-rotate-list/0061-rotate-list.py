@@ -26,9 +26,9 @@ class Solution:
             slow = slow.next
 
         fast.next = dummy.next
-        n = slow.next
+        dummy.next = slow.next
         slow.next = None
 
-        return n
+        return dummy.next
         
         
