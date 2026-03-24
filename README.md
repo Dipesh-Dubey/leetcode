@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipesh-Dubey/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dipesh-Dubey/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dipesh-Dubey/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Dipesh-Dubey/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dipesh-Dubey/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dipesh-Dubey/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
+| [2906-construct-product-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/2906-construct-product-matrix) |
 ## Tree
 |  |
 | ------- |
