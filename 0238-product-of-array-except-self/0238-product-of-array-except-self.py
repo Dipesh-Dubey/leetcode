@@ -6,9 +6,11 @@ class Solution:
 
         for i in range(len(nums)):
             pp[i+1] = pp[i] * nums[i]
-            sp[i+1] = sp[i] * nums[len(nums)-1-i]
+            
+        for i in range(len(nums)-1,-1,-1):
+            sp[i-1] = sp[i] * nums[i]
         
         for i in range(len(nums)):
-            res[i] = pp[i] * sp[len(nums)-1-i]
+            res[i] = pp[i] * sp[i]
         
         return res
