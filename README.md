@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Stack
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Queue
 |  |
