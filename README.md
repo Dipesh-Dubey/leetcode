@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dipesh-Dubey/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dipesh-Dubey/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
