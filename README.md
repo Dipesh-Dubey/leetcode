@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dipesh-Dubey/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dipesh-Dubey/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dipesh-Dubey/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1922-count-good-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/1922-count-good-numbers) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dipesh-Dubey/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dipesh-Dubey/leetcode/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dipesh-Dubey/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
