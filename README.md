@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dipesh-Dubey/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dipesh-Dubey/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dipesh-Dubey/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Dipesh-Dubey/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dipesh-Dubey/leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
 |  |
