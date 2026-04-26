@@ -3,17 +3,17 @@ class Solution:
         res = []
         path = []
 
-        def dfs(i,total):
+        def dfs(start, total):
             if total == target:
                 res.append(path.copy())
                 return
-            if total > target or i==len(candidates):
+            if total > target:
                 return
-            path.append(candidates[i])
-            dfs(i, total + candidates[i])   # reuse allowed
-            
-            path.pop()
-            dfs(i+1,total)
+
+            for i in range(start, len(candidates)):
+                path.append(candidates[i])
+                dfs(i, total + candidates[i])   
+                path.pop()
 
         dfs(0, 0)
         return res
