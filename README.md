@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dipesh-Dubey/leetcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dipesh-Dubey/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dipesh-Dubey/leetcode/tree/master/0078-subsets) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Dipesh-Dubey/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dipesh-Dubey/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Dipesh-Dubey/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Dipesh-Dubey/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
