@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dipesh-Dubey/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dipesh-Dubey/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Dipesh-Dubey/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Dipesh-Dubey/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dipesh-Dubey/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Dipesh-Dubey/leetcode/tree/master/0069-sqrtx) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dipesh-Dubey/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dipesh-Dubey/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Dipesh-Dubey/leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Dipesh-Dubey/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Dipesh-Dubey/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Dipesh-Dubey/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Dipesh-Dubey/leetcode/tree/master/0076-minimum-window-substring) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Dipesh-Dubey/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
