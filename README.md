@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Dipesh-Dubey/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0063-unique-paths-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0322-coin-change](https://github.com/Dipesh-Dubey/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Dipesh-Dubey/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dipesh-Dubey/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Dipesh-Dubey/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
 |  |
@@ -525,5 +529,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
