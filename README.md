@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dipesh-Dubey/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dipesh-Dubey/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dipesh-Dubey/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Dipesh-Dubey/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Dipesh-Dubey/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dipesh-Dubey/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dipesh-Dubey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dipesh-Dubey/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dipesh-Dubey/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0337-house-robber-iii) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Dipesh-Dubey/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Dipesh-Dubey/leetcode/tree/master/0322-coin-change) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -562,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
