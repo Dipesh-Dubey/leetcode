@@ -7,16 +7,15 @@ class Solution:
         
         visited = [False] * numCourses
         path = [False] * numCourses
-        cycle = False
+        self.cycle = False
 
         def dfs(node):
-            nonlocal cycle
             visited[node] = True
             path[node] = True
 
             for nei in adj[node]:
                 if visited[nei] and path[nei]:
-                    cycle = True
+                    self.cycle = True
                     return
 
                 elif not visited[nei]:
@@ -28,5 +27,5 @@ class Solution:
             if not visited[node]:
                 dfs(node)
         
-        if cycle==False: return True
+        if self.cycle==False: return True
         else: return False
