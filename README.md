@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dipesh-Dubey/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dipesh-Dubey/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/2906-construct-product-matrix) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Dipesh-Dubey/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dipesh-Dubey/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
