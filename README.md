@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dipesh-Dubey/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dipesh-Dubey/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Stack
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dipesh-Dubey/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dipesh-Dubey/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dipesh-Dubey/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Dipesh-Dubey/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
