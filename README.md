@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Dipesh-Dubey/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Dipesh-Dubey/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Dipesh-Dubey/leetcode/tree/master/0134-gas-station) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dipesh-Dubey/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0063-unique-paths-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0118-pascals-triangle](https://github.com/Dipesh-Dubey/leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Dipesh-Dubey/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0337-house-robber-iii) |
