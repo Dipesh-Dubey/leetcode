@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Dipesh-Dubey/leetcode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Dipesh-Dubey/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1922-count-good-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/1922-count-good-numbers) |
@@ -645,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Dipesh-Dubey/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0210-course-schedule-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Dipesh-Dubey/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
