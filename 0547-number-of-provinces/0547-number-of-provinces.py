@@ -3,18 +3,11 @@ class Solution:
         n = len(isConnected)
         visited = [False]* n
 
-        adj = [[] for _ in range(n)]
-
-        for i in range(n):
-            for j in range(n):
-                if i != j and isConnected[i][j] == 1:
-                    adj[i].append(j)
-        
         def dfs(node):
             visited[node] = 1
 
-            for nei in adj[node]:
-                if not visited[nei]:
+            for nei in range(n):
+                if isConnected[node][nei] == 1 and not visited[nei]:
                     dfs(nei)
         
         count = 0
