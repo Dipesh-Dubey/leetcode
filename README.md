@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Dipesh-Dubey/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dipesh-Dubey/leetcode/tree/master/0739-daily-temperatures) |
+| [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Dipesh-Dubey/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dipesh-Dubey/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dipesh-Dubey/leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Dipesh-Dubey/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dipesh-Dubey/leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Dipesh-Dubey/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Dipesh-Dubey/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dipesh-Dubey/leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Dipesh-Dubey/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dipesh-Dubey/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
