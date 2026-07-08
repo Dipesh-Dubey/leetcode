@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dipesh-Dubey/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dipesh-Dubey/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Dipesh-Dubey/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dipesh-Dubey/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/2906-construct-product-matrix) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dipesh-Dubey/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Queue
