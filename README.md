@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dipesh-Dubey/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Dipesh-Dubey/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Dipesh-Dubey/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dipesh-Dubey/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Dipesh-Dubey/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Dipesh-Dubey/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dipesh-Dubey/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Dipesh-Dubey/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Dipesh-Dubey/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dipesh-Dubey/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Dipesh-Dubey/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
