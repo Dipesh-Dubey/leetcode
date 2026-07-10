@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipesh-Dubey/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dipesh-Dubey/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Dipesh-Dubey/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Dipesh-Dubey/leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Dipesh-Dubey/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
