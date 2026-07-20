@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/Dipesh-Dubey/leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dipesh-Dubey/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dipesh-Dubey/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/Dipesh-Dubey/leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Dipesh-Dubey/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/Dipesh-Dubey/leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dipesh-Dubey/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
