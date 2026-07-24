@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dipesh-Dubey/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dipesh-Dubey/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dipesh-Dubey/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Dipesh-Dubey/leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0268-missing-number) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dipesh-Dubey/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Dipesh-Dubey/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Dipesh-Dubey/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Dipesh-Dubey/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dipesh-Dubey/leetcode/tree/master/0268-missing-number) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Dipesh-Dubey/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dipesh-Dubey/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dipesh-Dubey/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Dipesh-Dubey/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Dipesh-Dubey/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
