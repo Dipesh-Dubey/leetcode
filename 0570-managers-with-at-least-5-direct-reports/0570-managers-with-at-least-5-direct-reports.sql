@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-with t1 as(select *,count(managerId)
+with t1 as(select managerId
 from Employee
 group by managerId
 having count(*) >= 5)
