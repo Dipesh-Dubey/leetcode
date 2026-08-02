@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Dipesh-Dubey/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dipesh-Dubey/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Dipesh-Dubey/leetcode/tree/master/0994-rotting-oranges) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Dipesh-Dubey/leetcode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Dipesh-Dubey/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Dipesh-Dubey/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0877-stone-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1922-count-good-numbers](https://github.com/Dipesh-Dubey/leetcode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dipesh-Dubey/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dipesh-Dubey/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -772,4 +775,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dipesh-Dubey/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dipesh-Dubey/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
