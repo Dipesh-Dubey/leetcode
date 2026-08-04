@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dipesh-Dubey/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3731-find-missing-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dipesh-Dubey/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Dipesh-Dubey/leetcode/tree/master/0853-car-fleet) |
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Dipesh-Dubey/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dipesh-Dubey/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
