@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Dipesh-Dubey/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Dipesh-Dubey/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Dipesh-Dubey/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dipesh-Dubey/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
+| [3310-remove-methods-from-project](https://github.com/Dipesh-Dubey/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dipesh-Dubey/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Dipesh-Dubey/leetcode/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/Dipesh-Dubey/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
