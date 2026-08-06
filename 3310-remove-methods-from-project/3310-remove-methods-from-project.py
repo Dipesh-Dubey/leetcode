@@ -1,20 +1,20 @@
 class Solution:
     def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
-        graph = [[] for _ in range(n)]
+        adj = [[] for _ in range(n)]
 
-        for u, v in invocations:
-            graph[u].append(v)
+        for u,v in invocations:
+            adj[u].append(v)
 
-        visited = [False] * n
+        visited = [0] * n
 
         def dfs(node):
-            visited[node] = True
-            for nei in graph[node]:
-                if not visited[nei]:
+            visited[node] = 1
+            for nei in adj[node]:
+                if visited[nei]==0:
                     dfs(nei)
         dfs(k)
 
-        for u, v in invocations:
+        for u,v in invocations:
             if not visited[u] and visited[v]:
                 return list(range(n))
 
