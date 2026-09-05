@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dipesh-Dubey/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Dipesh-Dubey/leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
 |  |
 | ------- |
