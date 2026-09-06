@@ -1,28 +1,38 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
         n = len(nums)
-        sum = 0
-        for num in nums:
-            sum += num
-        if sum%2 != 0:
+        
+        total = sum(nums)
+
+        if total % 2 != 0:
             return False
 
-        sum = sum//2
+        target = total // 2
 
-        t = [[False]*(sum+1) for _ in range(n+1)]
+        dp = [[-1] * (target + 1) for _ in range(n)]
 
-        for i in range(n+1):
-            t[i][0] = True
-        
-        for i in range(1,n+1):
-            for j in range(1,sum+1):
-                if nums[i-1]<=j:
-                    t[i][j] = t[i-1][j-nums[i-1]] or t[i-1][j]
+        def dfs(i, target):
+            # We found a subset with required sum
+            if target == 0:
+                return True
 
-                else:
-                    t[i][j] = t[i-1][j]
+            # No elements left
+            if i == n:
+                return False
 
-        return t[n][sum]
+            # Already calculated
+            if dp[i][target] != -1:
+                return dp[i][target]
 
+            # Take or skip nums[i]
+            if nums[i] <= target:
+                dp[i][target] = (
+                    dfs(i + 1, target - nums[i])
+                    or dfs(i + 1, target)
+                )
+            else:
+                dp[i][target] = dfs(i + 1, target)
 
+            return dp[i][target]
 
+        return dfs(0, target)
