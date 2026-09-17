@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Dipesh-Dubey/leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dipesh-Dubey/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dipesh-Dubey/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1765-map-of-highest-peak](https://github.com/Dipesh-Dubey/leetcode/tree/master/1765-map-of-highest-peak) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Dipesh-Dubey/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dipesh-Dubey/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dipesh-Dubey/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Interactive
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Dipesh-Dubey/leetcode/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dipesh-Dubey/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/Dipesh-Dubey/leetcode/tree/master/1048-longest-string-chain) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Dipesh-Dubey/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/3731-find-missing-elements) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Dipesh-Dubey/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dipesh-Dubey/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dipesh-Dubey/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Queue
 |  |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Dipesh-Dubey/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dipesh-Dubey/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dipesh-Dubey/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/Dipesh-Dubey/leetcode/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
