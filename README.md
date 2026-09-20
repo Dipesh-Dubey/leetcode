@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dipesh-Dubey/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipesh-Dubey/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Dipesh-Dubey/leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Dipesh-Dubey/leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dipesh-Dubey/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dipesh-Dubey/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
